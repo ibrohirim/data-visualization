@@ -3,7 +3,7 @@ Projects to showcase different ways to visualize data and making it interactive 
 
 To run any of the projects run this command in your terminal:
 
-"java -cp <path-of-Main-file> Main"
+```java -cp <path-of-Main-file> Main```
   
 this should compile the app and run it. 
 
