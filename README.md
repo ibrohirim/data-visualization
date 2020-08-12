@@ -26,5 +26,5 @@ Hovering over a node will display the files path and size.
 
 ---------------
 
-The "Parallel Coordinates" prject visualizaes a large quantinty of data using the parallel lines method. Caveat of this approach is that large amounts of 
+The "Parallel Coordinates" project visualizaes a large quantinty of data using the parallel lines method. Caveat of this approach is that large amounts of 
 data pose a performance impact. Further improvements might be necessary to handle that type of data. 
