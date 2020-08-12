@@ -16,6 +16,9 @@ The file format is a simple text file with the numbers seprated by a new line "\
 3
 etc..
 
+![VisualizaeSort](https://user-images.githubusercontent.com/46801434/89960576-4424ff80-dbf4-11ea-90dc-b745f6281838.gif)
+
+
 ---------------
 
 The "Tree Map" project analyzes a file system with a selected directory as the root node. Options to visualize by file age, type or permissions.
