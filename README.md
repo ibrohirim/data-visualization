@@ -24,6 +24,9 @@ etc..
 The "Tree Map" project analyzes a file system with a selected directory as the root node. Options to visualize by file age, type or permissions.
 Hovering over a node will display the files path and size.
 
+
+![TreeMap](https://user-images.githubusercontent.com/46801434/89962560-e693b180-dbf9-11ea-8f6c-5095b6115a68.gif)
+
 ---------------
 
 The "Parallel Coordinates" project visualizaes a large quantinty of data using the parallel lines method. Caveat of this approach is that large amounts of 
