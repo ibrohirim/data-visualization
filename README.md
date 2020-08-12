@@ -1,4 +1,4 @@
-# javaDataVisualization
+# Data Visualization in Java
 Projects to showcase different ways to visualize data and making it interactive using java.
 
 To run any of the projects run this command in your terminal:
